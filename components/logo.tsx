@@ -8,7 +8,7 @@ export default function Logo({ className = "" }: { className?: string }) {
           B+
         </div>
         <span className="ml-2 text-xl font-bold bg-gradient-to-r from-purple-500 to-blue-500 bg-clip-text text-transparent">
-          Bank+
+          BankPlus
         </span>
       </div>
     </Link>

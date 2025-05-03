@@ -8,7 +8,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Bank+ - Modern Banking Solutions",
+  title: "BankPlus - Modern Banking Solutions",
   description: "Secure and efficient banking management system"
 }
 

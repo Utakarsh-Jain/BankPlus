@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="w-full border-t border-gray-800 bg-black py-8">
       <div className="container grid gap-8 md:grid-cols-2 lg:grid-cols-4">
         <div className="space-y-4">
-          <h3 className="text-lg font-bold">Bank+</h3>
+          <h3 className="text-lg font-bold">BankPlus</h3>
           <p className="text-sm text-gray-400">Secure and efficient banking solutions for all your financial needs.</p>
         </div>
         <div className="space-y-4">
@@ -70,7 +70,7 @@ export default function Footer() {
       <div className="container mt-8 border-t border-gray-800 pt-8">
         <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
           <p className="text-center text-sm text-gray-400">
-            © {new Date().getFullYear()} Bank+. All rights reserved.
+            © {new Date().getFullYear()} BankPlus. All rights reserved.
           </p>
           <div className="flex gap-4">
             <Link href="/terms" className="text-sm text-gray-400 hover:text-white">

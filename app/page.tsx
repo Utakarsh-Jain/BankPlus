@@ -168,7 +168,7 @@ export default function Home() {
                 Ready to Experience Modern Banking?
               </h2>
               <p className="max-w-[600px] text-gray-300 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Join thousands of satisfied customers who trust Bank+Attachment for their financial needs.
+                Join thousands of satisfied customers who trust BankPlus for their financial needs.
               </p>
             </div>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">

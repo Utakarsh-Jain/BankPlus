@@ -13,7 +13,7 @@ export default function LoginPage() {
           <CardTitle className="text-2xl bg-gradient-to-r from-purple-400 to-blue-500 bg-clip-text text-transparent">
             Welcome Back
           </CardTitle>
-          <CardDescription className="text-gray-400">Login to access your Bank+ account</CardDescription>
+          <CardDescription className="text-gray-400">Login to access your BankPlus account</CardDescription>
         </CardHeader>
         <CardContent>
           <form>

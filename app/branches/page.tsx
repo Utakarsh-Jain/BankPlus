@@ -13,7 +13,7 @@ export default function BranchesPage() {
             Our Branches
           </h1>
           <p className="max-w-[700px] text-gray-300 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-            Find a Bank+ branch near you for all your banking needs.
+            Find a BankPlus branch near you for all your banking needs.
           </p>
         </div>
       </div>

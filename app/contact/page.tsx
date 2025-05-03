@@ -188,14 +188,14 @@ export default function ContactPage() {
                 <p className="text-sm text-gray-300">
                   For technical issues related to online banking, mobile app, or website.
                 </p>
-                <p className="text-sm text-gray-300">Email: tech.support@bank+.com</p>
+                <p className="text-sm text-gray-300">Email: tech.support@bankplus.com</p>
               </div>
               <div className="space-y-2">
                 <p className="font-semibold">Complaints</p>
                 <p className="text-sm text-gray-300">
                   If you have a complaint or feedback, please let us know so we can improve our services.
                 </p>
-                <p className="text-sm text-gray-300">Email: complaints@bank+.com</p>
+                <p className="text-sm text-gray-300">Email: complaints@bankplus.com</p>
               </div>
             </CardContent>
           </Card>

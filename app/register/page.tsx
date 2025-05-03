@@ -29,7 +29,7 @@ export default function RegisterPage() {
             Create Your Account
           </CardTitle>
           <CardDescription className="text-gray-400">
-            Join Bank+ for secure and efficient banking
+            Join BankPlus for secure and efficient banking
           </CardDescription>
         </CardHeader>
         <CardContent>
